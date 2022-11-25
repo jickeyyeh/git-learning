@@ -13,4 +13,9 @@ $ git config --global user.name "<Your Name>"
 ```
 $ git config --global user.email "<your@gmail.com>"
 ```
-## 2.Git 上傳到github
+## 2. github上傳或下載
+[從Github下載,更改後上傳](01.md)
+
+---
+[HOME](../README.md)
+[回目錄](README.md)
